@@ -7,6 +7,6 @@ Rick&Morty - Trabajo integrador FULLSTACK. (!WORK AND PROGRESS!)
   - NODE JS
 
 Juego de Adivinanzas - Juego (FINALIZADO)
-  -HTML
-  -CSS
-  -JS
+  - HTML
+  - CSS
+  - JS
