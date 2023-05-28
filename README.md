@@ -12,6 +12,12 @@ Juego de Adivinanzas - Juego (FINALIZADO)
   - CSS
   - JS
 
-Image Search with Pixabay API.
+Image Search with Pixabay API.(FINALIZADO)
   - JS
   - API PIXABAY
+
+TP individual FULLSTACK Let s Play de Henry (FINALIZADO)
+   - React
+   - Redux
+   - Node JS
+   - MySQL
