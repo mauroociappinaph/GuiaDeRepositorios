@@ -1,5 +1,6 @@
 # GuiaDeRepositorios
-Guia de todos los repositorios
+Guia de todos los repositorios.
+by MAUROO CIAPPINA 💫
 
 Rick&Morty - Trabajo integrador FULLSTACK. (!WORK AND PROGRESS!)
   - REACT
