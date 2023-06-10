@@ -26,3 +26,8 @@ Cotizador.(FINALIZADO)
    - React
    - Vite
    - Tailwind
+
+Proyecto Local Storage.(FINALIZADO)
+   - HTML
+   - CSS
+   - JS
