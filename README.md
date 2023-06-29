@@ -33,5 +33,6 @@ Proyecto Local Storage.(FINALIZADO)
    - HTML
    - CSS
    - JS
+
 Aplicación interactiva de consola(FINALIZADO)
   - Node JS
