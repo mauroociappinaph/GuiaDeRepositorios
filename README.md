@@ -15,6 +15,7 @@ Juego de Adivinanzas - Juego (FINALIZADO)
 Image Search with Pixabay API.(FINALIZADO)
   - JS
   - API PIXABAY
+DEOLOY: https://api-pixabay-buscador-mauroo-ciappina.netlify.app/
 
 TP individual FULLSTACK Let s Play de Henry.FULLSTACK. (FINALIZADO)
    - React
@@ -26,8 +27,11 @@ Cotizador.(FINALIZADO)
    - React
    - Vite
    - Tailwind
+DEPLOY: https://cotizadorbymauroociappina.netlify.app
 
 Proyecto Local Storage.(FINALIZADO)
    - HTML
    - CSS
    - JS
+Aplicación interactiva de consola(FINALIZADO)
+  - Node JS
