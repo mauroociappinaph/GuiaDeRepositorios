@@ -42,7 +42,7 @@ Webserver(FINALIZADO)
   - CSS
   - Node JS  
 
-Homework de Integración de Mercado Pago
+Homework de Integración de Mercado Pago(FINALIZADO)
   - React
   - Node JS
   - Api de Mercado Pago
