@@ -43,6 +43,6 @@ Webserver(FINALIZADO)
   - Node JS  
 
 Homework de Integración de Mercado Pago
-  -
-  -
-  -
+  - React
+  - Node JS
+  - Api de Mercado Pago
