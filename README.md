@@ -2,9 +2,10 @@
 Guia de todos los repositorios.
 by MAUROO CIAPPINA 💫
 
-
-Start Bussnies
-
+Deal Up!
+  - NEXT
+  - REACT TOOLKIT
+  - NODE JS
 
 Rick&Morty - Trabajo integrador. FULLSTACK. (WORK AND PROGRESS)
   - REACT
