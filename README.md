@@ -3,7 +3,7 @@ Guia de todos los repositorios.
 by MAUROO CIAPPINA 💫
 
 Deal Up!
-  - NEXT
+  - NEXT JS
   - REACT TOOLKIT
   - NODE JS
 
