@@ -54,3 +54,6 @@ Homework de Integración de Mercado Pago (FINALIZADO)
   - Node JS
   - Expres
   - Api de Mercado Pago
+
+Pokedex
+  - Typescript
