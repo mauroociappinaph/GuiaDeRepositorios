@@ -57,3 +57,5 @@ Homework de Integración de Mercado Pago (FINALIZADO)
 
 Pokedex
   - Typescript
+
+DEPLOY: https://pokedex-typescript-reactmc.netlify.app/
