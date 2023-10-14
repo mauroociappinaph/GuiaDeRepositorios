@@ -2,7 +2,7 @@
 Guia de todos los repositorios.
 by MAUROO CIAPPINA 💫
 
-Deal Up!
+Deal Up! (FINALIZADO)
   - NEXT JS
   - REACT TOOLKIT
   - NODE JS
@@ -55,7 +55,7 @@ Homework de Integración de Mercado Pago (FINALIZADO)
   - Expres
   - Api de Mercado Pago
 
-Pokedex
+Pokedex (FINALIZADO)
   - Typescript
   - API pokémon
 
