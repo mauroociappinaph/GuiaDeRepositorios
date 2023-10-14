@@ -57,6 +57,6 @@ Homework de Integración de Mercado Pago (FINALIZADO)
 
 Pokedex
   - Typescript
-  - API pokemón
+  - API pokémon
 
 DEPLOY: https://pokedex-typescript-reactmc.netlify.app/
