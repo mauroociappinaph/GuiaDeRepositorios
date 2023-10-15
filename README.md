@@ -52,7 +52,7 @@ Webserver(FINALIZADO)
 Homework de Integración de Mercado Pago (FINALIZADO)
   - React
   - Node JS
-  - Expres
+  - Express
   - Api de Mercado Pago
 
 Pokedex (FINALIZADO)
